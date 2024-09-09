@@ -1,0 +1,86 @@
+{
+    "Navigation":[
+        {
+            "name":"home",
+            "urlAddress":"home"
+        },
+        {
+            "name":"about",
+            "urlAddress":"about"
+        },
+        {
+            "name":"students",
+            "urlAddress":"students"
+        },
+        {
+            "name":"contact",
+            "urlAddress":"contact"
+        }
+    ],
+    "Students":[
+    {
+        "name": "John Doe",
+        "email": "jdoe@me.com",
+        "phone": "555-555-5555",
+        "grade": "Senior"
+    },
+    {
+        "name": "Jane Doe",
+        "email": "janedoe@me.com",
+        "phone": "444-444-4444",
+        "grade": "Sophomore"
+    },
+    {
+        "name": "Bob Smith",
+        "email": "bobsmith@me.com",
+        "phone": "333-333-3333",
+        "grade": "Junior"
+    },
+    {
+        "name": "Alice Brown",
+        "email": "alicebrown@me.com",
+        "phone": "222-222-2222",
+        "grade": "Freshman"
+    },
+    {
+        "name": "Mike Davis",
+        "email": "mikedavis@me.com",
+        "phone": "111-111-1111",
+        "grade": "Senior"
+    }
+
+],
+    "Parents":[
+    {
+        "name": "John Doe",
+        "email": "jdoe@me.com",
+        "phone": "555-555-5555",
+        "grade": "Senior"
+    },
+    {
+        "name": "Jane Doe",
+        "email": "janedoe@me.com",
+        "phone": "444-444-4444",
+        "grade": "Sophomore"
+    },
+    {
+        "name": "Bob Smith",
+        "email": "bobsmith@me.com",
+        "phone": "333-333-3333",
+        "grade": "Junior"
+    },
+    {
+        "name": "Alice Brown",
+        "email": "alicebrown@me.com",
+        "phone": "222-222-2222",
+        "grade": "Freshman"
+    },
+    {
+        "name": "Mike Davis",
+        "email": "mikedavis@me.com",
+        "phone": "111-111-1111",
+        "grade": "Senior"
+    }
+
+]
+}
